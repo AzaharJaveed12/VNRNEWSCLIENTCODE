@@ -1,7 +1,7 @@
 <template>
 
   <div id="app">
-    
+        <!--sadsad-->
           <nav class="navbar  navbar-dark bg-primary">
         <a class="navbar-brand" href="/">VNR NEWS</a>
         <form class="form-inline my-2 my-lg-0">
